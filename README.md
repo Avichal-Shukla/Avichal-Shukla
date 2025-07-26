@@ -17,11 +17,9 @@ Passionate about turning ideas into smooth mobile experiences with a focus on cl
   <a href="https://www.linkedin.com/in/avichal-shukla-3227aa1aa/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
+  
   <a href="https://github.com/Avichal-Shukla" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  </a>
-  <a href="mailto:shuavi710500@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>
   </a>
 </p>
 
@@ -32,21 +30,27 @@ Passionate about turning ideas into smooth mobile experiences with a focus on cl
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Swift"/>
   </a>
+  
   <a href="https://developer.apple.com/xcode/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/>
   </a>
+  
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
   </a>
+  
   <a href="https://graphql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL"/>
   </a>
+  
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
   </a>
+  
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   </a>
+  
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   </a>
