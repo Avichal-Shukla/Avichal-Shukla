@@ -1,3 +1,5 @@
+![banner](https://your-image-link.com/banner.png)
+
 ## Hi there 👋 I'm Avichal Shukla
 
 I'm an iOS Developer with 1.5+ years of experience crafting clean, efficient, and user-friendly apps using Swift and SwiftUI.  
