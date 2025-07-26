@@ -1,4 +1,4 @@
-![banner][(https://your-image-link.com/banner.png](https://github.com/Avichal-Shukla/Avichal-Shukla/blob/main/banner.jfif?raw=true))
+<img src="https://raw.githubusercontent.com/Avichal-Shukla/Avichal-Shukla/refs/heads/main/banner.jfif?raw=true" alt="Avichal Shukla Banner" style="width:100%;" />
 
 ## Hi there 👋 I'm Avichal Shukla
 
