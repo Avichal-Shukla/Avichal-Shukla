@@ -1,4 +1,4 @@
-![banner][(https://your-image-link.com/banner.png](https://github.com/Avichal-Shukla/Avichal-Shukla/blob/main/banner.jfif))
+![banner][(https://your-image-link.com/banner.png](https://github.com/Avichal-Shukla/Avichal-Shukla/blob/main/banner.jfif?raw=true))
 
 ## Hi there 👋 I'm Avichal Shukla
 
