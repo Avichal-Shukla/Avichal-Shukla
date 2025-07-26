@@ -1,4 +1,4 @@
-![banner](https://your-image-link.com/banner.png)
+![banner][(https://your-image-link.com/banner.png](https://github.com/Avichal-Shukla/Avichal-Shukla/blob/main/banner.jfif))
 
 ## Hi there 👋 I'm Avichal Shukla
 
